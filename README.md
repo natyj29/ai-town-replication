@@ -19,7 +19,7 @@ This project is a replication of [Convex AI Town](https://www.convex.dev/ai-town
 ## 🔗 Project Link
 
 The full project is deployed on FreeAIcode:  
-👉 [insert your actual project link here]
+👉 https://www.freeaicode.com/public/23de118b-e5c5-4853-b8f1-e0ac2fe05b82
 
 ## 📩 Submission Info
 
